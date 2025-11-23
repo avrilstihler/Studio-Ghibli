@@ -1,0 +1,583 @@
+[
+  {
+    "nome_ghibli": "Nausicaä do Vale do Vento",
+    "tipo": "Filme",
+    "sinopse": "Em um futuro pós-apocalíptico, a jovem princesa Nausicaä vive no Vale do Vento, um dos poucos lugares habitáveis não afetados pela letal selva tóxica conhecida como Mar Podre. Quando uma nação militarista tenta usar um deus-guerreiro antigo para destruir a selva e os insetos gigantes que a protegem, Nausicaä deve intervir. Ela busca desesperadamente a paz entre os humanos e a natureza, revelando os segredos ecológicos que mantêm o planeta vivo.",
+    "ano_lancamento": "1984",
+    "diretor": "Hayao Miyazaki",
+    "cor_principal": "#4169e1",
+    "citacoes": [
+      "A humanidade está presa em uma jaula de ódio.",
+      "A vida está nos alcançando.",
+      "Sofrimento, tragédia e loucura não desaparecerão em um mundo purificado. Eles fazem parte da humanidade. É por isso que mesmo em um mundo de sofrimento pode haver alegria e luz brilhante."
+    ],
+    "tags_tematicas": [
+      "Pós-apocalíptico",
+      "Ecologia",
+      "Ficção científica",
+      "Miyazaki"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/yYVZnghP/1984-Nausicaa-do-Vale-do-Vento.webp",    
+      "https://i.postimg.cc/L6b0ppsK/0-ROW0XDC4c-N-DD7WU.jpg"
+    ]
+  },
+  {
+    "nome_ghibli": "O Castelo no Céu",
+    "tipo": "Filme",
+    "sinopse": "A jovem órfã Sheeta, herdeira de um misterioso cristal voador, é perseguida por agentes do governo e piratas do céu. Ela é salva pelo garoto Pazu, que sonha em encontrar a lendária cidade flutuante de Laputa. Juntos, eles embarcam em uma perigosa jornada para descobrir a verdade por trás do passado de Sheeta e o poder oculto de Laputa, enquanto tentam evitar que o poder da cidade caia em mãos erradas.",
+    "ano_lancamento": "1986",
+    "diretor": "Hayao Miyazaki",
+    "cor_principal": "#CD5C5C",
+    "citacoes": [
+      "Um coração é um fardo pesado de se carregar.",
+      "Não importa quantas armas você tenha, não importa o quão grande seja sua tecnologia, o mundo não pode viver sem amor.",
+      "A terra é linda, até do alto."
+    ],
+    "tags_tematicas": [
+      "Aventura",
+      "Steampunk",
+      "Piratas",
+      "Cidade perdida"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/RV5LQZqV/1986-O-Castelo-no-Ceu.webp",    
+      "https://i.postimg.cc/yNsVFcCr/2bb240-efb5e71b0e2d46138f9a36fbe161f19e-mv2.avif"  
+    ]
+  },
+  {
+    "nome_ghibli": "Meu Amigo Totoro",
+    "tipo": "Filme",
+    "sinopse": "As irmãs Satsuki e Mei se mudam para uma casa de campo antiga para estarem mais perto da mãe, que está hospitalizada devido a uma doença. Ao explorarem o novo lar e seus arredores, as garotas descobrem um mundo de espíritos florestais amigáveis, incluindo o enorme e adorável Totoro. O filme celebra a inocência infantil, a imaginação e a conexão mágica com a natureza, oferecendo conforto e escapismo durante um período de incerteza familiar.",
+    "ano_lancamento": "1988",
+    "diretor": "Hayao Miyazaki",
+    "cor_principal": "#27ae60",
+    "citacoes": [
+      "Totoro, você deve ser o espírito da floresta.",
+      "Eu acho que a floresta está nos convidando.",
+      "Quando você está perdido, o Gato-Ônibus é a única maneira de voltar para casa."
+    ],
+    "tags_tematicas": [
+      "Infância",
+      "Fantasia",
+      "Cotidiano",
+      "Espíritos",
+      "Miyazaki"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/P5ytQyzn/1988-Meu-Amigo-Totoro.webp",    
+      "https://i.postimg.cc/SRc42fNd/1954089b6276303c09a412e52627fee60b643ce3b9d6d9d21b9cc729a442aef6-SX1080-FMpng.png"     
+    ]
+  },
+  {
+    "nome_ghibli": "Túmulo dos Vagalumes",
+    "tipo": "Filme",
+    "sinopse": "Ambientado nos estágios finais da Segunda Guerra Mundial, esta comovente e trágica história segue Seita e sua irmã mais nova, Setsuko, após terem perdido a mãe em um bombardeio em Kobe. Forçados a vagar e a lutar pela sobrevivência em meio à escassez de alimentos e à indiferença dos parentes, os jovens irmãos tentam manter a esperança e a dignidade. O filme é um relato brutal e poderoso sobre a devastação da guerra e a fragilidade da vida.",
+    "ano_lancamento": "1988",
+    "diretor": "Isao Takahata",
+    "cor_principal": "#800020",
+    "citacoes": [
+      "Por que os vagalumes morrem tão cedo?",
+      "Sete-chan, isso é feijão doce?",
+      "Em 21 de setembro de 1945, eu morri."
+    ],
+    "tags_tematicas": [
+      "Drama",
+      "Guerra",
+      "Tragédia",
+      "Histórico"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/2SsxTdz4/Tumulo-dos-Vagalumes.webp",    
+      "https://i.postimg.cc/T2tqBvd9/Fireflies-2.webp"     
+    ]
+  },
+  {
+    "nome_ghibli": "O Serviço de Entregas da Kiki",
+    "tipo": "Filme",
+    "sinopse": "Aos 13 anos, Kiki, uma jovem bruxa em treinamento, deve seguir a tradição de deixar sua casa por um ano para viver em uma nova cidade e desenvolver suas habilidades. Acompanhada por seu sarcástico gato preto, Jiji, ela se instala em uma cidade portuária europeia e usa sua única magia, voar, para começar um serviço de entregas. Kiki precisa superar a solidão, a insegurança e um bloqueio criativo enquanto amadurece e encontra seu lugar no mundo.",
+    "ano_lancamento": "1989",
+    "diretor": "Hayao Miyazaki",
+    "cor_principal": "#DB7093",
+    "citacoes": [
+      "Se eu parar de acreditar, perdi tudo.",
+      "Vou ficar bem. Sou uma bruxa.",
+      "Nós temos que encontrar o nosso próprio caminho."
+    ],
+    "tags_tematicas": [
+      "Amadurecimento",
+      "Magia",
+      "Cotidiano",
+      "Miyazaki"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/ZRR0dgGK/1989-O-Servico-de-Entregas-da-Kiki.webp",    
+      "https://i.postimg.cc/25HhM4mj/o-servico-de-entregas-da-kiki.webp"     
+    ]
+  },
+  {
+    "nome_ghibli": "Memórias de Ontem",
+    "tipo": "Filme",
+    "sinopse": "Taeko Okajima, uma mulher de 27 anos que vive em Tóquio, decide fazer uma viagem ao campo para ajudar na colheita de açafrão em Yamagata. Durante a viagem e sua estadia, ela é constantemente assombrada por lembranças vívidas de sua infância como uma aluna da quinta série nos anos 60. Enquanto confronta as expectativas não cumpridas e as alegrias de seu passado, Taeko reconsidera suas escolhas de vida e o que realmente a faria feliz.",
+    "ano_lancamento": "1991",
+    "diretor": "Isao Takahata",
+    "cor_principal": "#FFA500",
+    "citacoes": [
+      "O tempo simplesmente passa, e o passado nunca volta.",
+      "As pessoas dizem que os sonhos não significam nada.",
+      "Há tantas coisas que quero saber sobre o passado."
+    ],
+    "tags_tematicas": [
+      "Slice of Life",
+      "Nostalgia",
+      "Drama",
+      "Feminino"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/jjCLWB0S/Memorias-de-Ontem.webp",    
+      "https://i.postimg.cc/HkkLKFLb/Only-Yesterday-2.webp"     
+    ]
+  },
+  {
+    "nome_ghibli": "Porco Rosso",
+    "tipo": "Filme",
+    "sinopse": "Marco Pagot, um ás da aviação italiana da Primeira Guerra Mundial, é misteriosamente amaldiçoado e transformado em um porco antropomórfico que atende pelo nome de Porco Rosso. Vivendo como um caçador de recompensas aéreo no Mar Adriático dos anos 1930, ele passa seus dias combatendo piratas aéreos. Quando um piloto americano o desafia, Porco deve consertar seu avião e confrontar seu passado melancólico, definindo se ainda vale a pena lutar pelo amor e pela honra.",
+    "ano_lancamento": "1992",
+    "diretor": "Hayao Miyazaki",
+    "cor_principal": "#D2691E",
+    "citacoes": [
+      "Eu prefiro ser um porco a ser um fascista.",
+      "Um porco que não voa é apenas um porco.",
+      "É melhor você ser um bom piloto do que um bom homem."
+    ],
+    "tags_tematicas": [
+      "Aviação",
+      "Aventura",
+      "Guerra",
+      "Romance",
+      "Miyazaki"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/mrqNhQnQ/1992-Porco-Rosso.webp",    
+      "https://i.postimg.cc/0N3drp46/Design-sem-nome-1-17.webp"     
+    ]
+  },
+  {
+    "nome_ghibli": "Ocean Waves",
+    "tipo": "Filme",
+    "sinopse": "Ambientado principalmente em Kochi, no Japão, este filme explora o complexo triângulo amoroso e as tensões entre dois melhores amigos, Taku e Yutaka, e uma nova aluna transferida de Tóquio, Rikako. Rikako é bonita e inteligente, mas também cínica e esnobe, gerando conflitos e ciúmes. A narrativa é contada em retrospectiva, enquanto Taku relembra a intensidade e as dificuldades de seu último ano do ensino médio e as consequências do seu envolvimento com Rikako.",
+    "ano_lancamento": "1993",
+    "diretor": "Tomomi Mochizuki",
+    "cor_principal": "#4682b4",
+    "citacoes": [
+      "Às vezes, o que você está procurando, vem quando você não está olhando",
+      "Foi um verão longo e quente."
+    ],
+    "tags_tematicas": [
+      "Romance",
+      "Escolar",
+      "Drama adolescente",
+      "Cotidiano"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/HkwfwLmV/Eu-Posso-Ouvir-o-Oceano.webp",    
+      "https://i.postimg.cc/wjXSXBzj/ocean-waves.avif"     
+    ]
+  },
+  {
+    "nome_ghibli": "Pom Poko",
+    "tipo": "Filme",
+    "sinopse": "Na região de Tama Hills, nos arredores de Tóquio, uma comunidade de guaxinins (tanuki) que possuem a habilidade mágica de se transformar e criar ilusões, começa uma resistência desesperada. Confrontados com a rápida destruição de seu habitat natural devido ao desenvolvimento urbano, os tanukis usam seu poder de transformação, chamado de 'Bakegaku', para tentar assustar e sabotar os humanos. O filme equilibra humor, folclore e uma crítica ecológica incisiva sobre a perda da natureza.",
+    "ano_lancamento": "1994",
+    "diretor": "Isao Takahata",
+    "cor_principal": "#8b4513",
+    "citacoes": [
+      "Devemos lutar contra os humanos e proteger nossa terra.",
+      "Não há nada de errado em ser um guaxinim.",
+      "As ilusões são a única esperança que nos resta."
+    ],
+    "tags_tematicas": [
+      "Ecologia",
+      "Folclore",
+      "Comédia",
+      "Transformação"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/MGc3sK2y/Pom-Poko.webp",    
+      "https://i.postimg.cc/mkSmcPCM/Pom-Poko-02.jpg"     
+    ]
+  },
+  {
+    "nome_ghibli": "Sussurros do Coração",
+    "tipo": "Filme",
+    "sinopse": "Shizuku Tsukishima, uma estudante do ensino fundamental que adora ler e escrever, percebe que todos os livros que pega emprestado na biblioteca já foram lidos por um garoto chamado Seiji Amasawa. Intrigada, ela o encontra e descobre que ele é um aspirante a luthier que sonha em estudar na Itália. Inspirada pela ambição de Seiji e pelo misterioso Baron, Shizuku se esforça para encontrar seu próprio caminho e propósito na vida, dedicando-se à escrita.",
+    "ano_lancamento": "1995",
+    "diretor": "Yoshifumi Kondō",
+    "cor_principal": "#DC143C",
+    "citacoes": [
+      "Não se preocupe, você não precisa se apressar.",
+      "Você não vai saber a menos que tente.",
+      "A vida é muito mais do que notas na escola."
+    ],
+    "tags_tematicas": [
+      "Romance",
+      "Amadurecimento",
+      "Cotidiano",
+      "Música"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/KYKp9vSB/Sussurros-do-Coracao.webp",    
+      "https://i.postimg.cc/pLvnG0NH/Sussurros-do-Coracao-seiji-e-shizuku.jpg"     
+    ]
+  },
+  {
+    "nome_ghibli": "Princesa Mononoke",
+    "tipo": "Filme",
+    "sinopse": "Ashitaka, um jovem príncipe de uma tribo distante, é amaldiçoado após matar um demônio e viaja para o oeste em busca de uma cura. Ele se depara com um conflito devastador entre a Cidade de Ferro, liderada pela determinada Dama Eboshi, e os espíritos da floresta, representados pela guerreira humana criada por lobos, San (Princesa Mononoke). Ashitaka tenta desesperadamente mediar a guerra entre os humanos e a natureza, enfrentando o ódio e a destruição ambiental.",
+    "ano_lancamento": "1997",
+    "diretor": "Hayao Miyazaki",
+    "cor_principal": "#38761d",
+    "citacoes": [
+      "O ódio atrai o ódio.",
+      "Você não pode mudar o destino de ninguém.",
+      "Nossos antepassados viveram em paz com a floresta."
+    ],
+    "tags_tematicas": [
+      "Fantasia",
+      "Ecologia",
+      "Guerra",
+      "Mitologia"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/6pb1L4Sh/1997-Princesa-Mononoke.webp",    
+      "https://i.postimg.cc/zXBQLk2D/princesa-mononoke-e-a-melhor-animacao-de-todos-os-tempos-e-eu-te-explico-o-porque.jpg"     
+    ]
+  },
+  {
+    "nome_ghibli": "Meus Vizinhos, Os Yamadas",
+    "tipo": "Filme",
+    "sinopse": "Este filme é uma série de vinhetas cômicas e poéticas que retratam o cotidiano da família Yamada: o pai Shigeo, a mãe Matsuko, a avó Shige, o filho Noboru e a pequena Nonoko. Utilizando um estilo visual minimalista e esboçado, o filme explora os desafios e as alegrias da vida familiar japonesa moderna, desde pequenas brigas domésticas até reflexões sobre o propósito da vida. É uma ode calorosa e realista à imperfeição da vida familiar.",
+    "ano_lancamento": "1999",
+    "diretor": "Isao Takahata",
+    "cor_principal": "#20B2AA",
+    "citacoes": [
+      "Eu não posso desistir. Sou a mãe.",
+      "Viver é difícil.",
+      "Tudo o que a vida oferece deve ser aceito."
+    ],
+    "tags_tematicas": [
+      "Cotidiano",
+      "Comédia",
+      "Minimalista",
+      "Família"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/fygB7622/Meus-Vizinhos-os-Yamadas-1.webp",    
+      "https://i.postimg.cc/rsbNR5zK/MV5BMTcz-OTY1Mz-Iy-Ml5BMl5Ban-Bn-Xk-Ft-ZTgw-Mzc1MDMz-NTE-V1.jpg"     
+    ]
+  },
+  {
+    "nome_ghibli": "A Viagem de Chihiro",
+    "tipo": "Filme",
+    "sinopse": "Chihiro, uma garota de dez anos, está de mudança com seus pais quando eles param em um túnel que leva a um mundo espiritual abandonado. Depois que seus pais são transformados em porcos, Chihiro deve sobreviver trabalhando na casa de banhos da bruxa Yubaba. Com a ajuda do misterioso Haku, ela precisa enfrentar espíritos e monstros, recuperar seu nome e encontrar um caminho de volta para o mundo humano antes que esqueça quem realmente é e seja presa para sempre.",
+    "ano_lancamento": "2001",
+    "diretor": "Hayao Miyazaki",
+    "cor_principal": "#1E90FF",
+    "citacoes": [
+      "Algo que nunca aconteceu não pode ser esquecido.",
+      "Tudo o que é feito aqui deve ser feito com muito cuidado.",
+      "Não tema, você é forte."
+    ],
+    "tags_tematicas": [
+      "Fantasia",
+      "Amadurecimento",
+      "Mundo espiritual",
+      "Miyazaki",
+      "Mitologia"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/7hkgqCr1/2001-A-Viagem-de-Chihiro.webp",    
+      "https://i.postimg.cc/sXP2hzXF/Design-sem-nome-1-10.webp"     
+    ]
+  },
+  {
+    "nome_ghibli": "O Reino dos Gatos",
+    "tipo": "Filme",
+    "sinopse": "Haru, uma estudante tímida e desajeitada, salva um gato misterioso de ser atropelado por um caminhão. Ela descobre que o gato é, na verdade, Lune, o Príncipe do Reino dos Gatos. Como recompensa, Haru é involuntariamente prometida em casamento a Lune e começa a se transformar lentamente em uma gata. Ela deve buscar a ajuda do Barão, o elegante detetive felino de 'Sussurros do Coração', para quebrar o feitiço e redescobrir sua própria voz.",
+    "ano_lancamento": "2002",
+    "diretor": "Hiroyuki Morita",
+    "cor_principal": "#808080",
+    "citacoes": [
+      "Sempre haverá algo que te assusta.",
+      "Seja você mesma, não importa o quê.",
+      "Se você entrar neste reino, você se tornará um deles."
+    ],
+    "tags_tematicas": [
+      "Fantasia",
+      "Aventura",
+      "Comédia",
+      "Gatos"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/4x2FbHM5/O-Reino-dos-Gatos.webp",    
+      "https://i.postimg.cc/j2bYyn1c/O-Reino-dos-Gatos.webp"     
+    ]
+  },
+  {
+    "nome_ghibli": "O Castelo Animado",
+    "tipo": "Filme",
+    "sinopse": "Sophie, uma jovem chapeleira que se sente sem graça, é amaldiçoada pela Bruxa do Desperdício e transformada em uma senhora de 90 anos. Ela foge e encontra refúgio no Castelo Animado, uma fortaleza ambulante habitada pelo poderoso e egocêntrico mago Howl, seu aprendiz Markl e o demônio do fogo Calcifer. Enquanto a guerra devasta o reino, Sophie, sob o disfarce de uma idosa, trabalha para quebrar a maldição de Howl e a sua própria.",
+    "ano_lancamento": "2004",
+    "diretor": "Hayao Miyazaki",
+    "cor_principal": "#A0522D",
+    "citacoes": [
+      "Eles dizem que a melhor parte de mim está na sua alma.",
+      "Um coração é um fardo pesado.",
+      "Eu não quero viver uma vida sem propósito."
+    ],
+    "tags_tematicas": [
+      "Fantasia",
+      "Guerra",
+      "Romance",
+      "Magia",
+      "Miyazaki"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/pLc1Y57f/2004-O-Castelo-Animado.webp",    
+      "https://i.postimg.cc/8k0hkdqw/dfa10e8d-7dd3-4c0a-ac22-0da12327f6cf.jpg"     
+    ]
+  },
+  {
+    "nome_ghibli": "Contos de Terramar",
+    "tipo": "Filme",
+    "sinopse": "O mundo de Terramar está desequilibrado: dragões estão aparecendo no domínio humano e a magia está desaparecendo. O arquimago Gedo investiga as causas e acaba acompanhado por Arren, um jovem príncipe melancólico que cometeu um ato de violência terrível. Juntos, eles viajam para a cidade de Hort, onde enfrentam o Mago Cob, que busca a vida eterna e tenta dominar o equilíbrio entre a vida e a morte.",
+    "ano_lancamento": "2006",
+    "diretor": "Gorō Miyazaki",
+    "cor_principal": "#6B8E23",
+    "citacoes": [
+      "A vida e a morte são a mesma coisa.",
+      "Você tem que aceitar quem você é.",
+      "A escuridão nunca desaparece."
+    ],
+    "tags_tematicas": [
+      "Fantasia Sombria",
+      "Magia",
+      "Aventura",
+      "Dragões"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/9QgNtwS9/Contos-de-Terramar.webp",    
+      "https://i.postimg.cc/vZVwTd3r/0-Oq-Je-Uifl-Z8HAF-1I.jpg"     
+    ]
+  },
+  {
+    "nome_ghibli": "Ponyo: Uma Amizade que Veio do Mar",
+    "tipo": "Filme",
+    "sinopse": "Sōsuke, um garoto de cinco anos que vive em uma casa no topo de um penhasco, encontra um peixinho dourado preso em uma garrafa e decide nomeá-lo Ponyo. Na verdade, Ponyo é uma princesa do mar, filha do Mago Fujimoto e da deusa Granmamare, que deseja se tornar humana. Sua fuga e subsequente transformação causam um desequilíbrio mágico que ameaça inundar o mundo, forçando Sōsuke a provar seu amor por ela para restaurar a ordem.",
+    "ano_lancamento": "2008",
+    "diretor": "Hayao Miyazaki",
+    "cor_principal": "#1e90ff",
+    "citacoes": [
+      "Eu amo Ponyo, quer ela seja peixe ou humana.",
+      "Seja ousada e forte.",
+      "Ponyo! Ponyo! Ponyo! Peixinho dourado!"
+    ],
+    "tags_tematicas": [
+      "Fantasia",
+      "Infância",
+      "Mar",
+      "Miyazaki"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/52KkqQGF/2008-Ponyo.webp",    
+      "https://i.postimg.cc/yY0wCTdv/cover40.webp"     
+    ]
+  },
+  {
+    "nome_ghibli": "O Mundo dos Pequeninos",
+    "tipo": "Filme",
+    "sinopse": "Arrietty, uma jovem 'Borrower' (Pequenina), vive secretamente sob o assoalho de uma casa de campo. Ela e sua família sobrevivem 'pegando emprestado' pequenos itens dos 'humanos'. Quando Sho, um garoto doente que se muda para a casa para se recuperar, a descobre, a regra mais importante dos Borrowers é quebrada: nunca ser visto. A amizade proibida floresce, mas coloca a sobrevivência da família de Arrietty em risco, forçando-os a procurar um novo lar.",
+    "ano_lancamento": "2010",
+    "diretor": "Hiromasa Yonebayashi",
+    "cor_principal": "#99a349",
+    "citacoes": [
+      "Nós, pequeninos, temos que lutar para sobreviver.",
+      "Você me fez sentir que eu poderia viver um pouco mais.",
+      "Há um mundo secreto sob o nosso."
+    ],
+    "tags_tematicas": [
+      "Fantasia",
+      "Cotidiano",
+      "Aventura",
+      "Amizade"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/6pb1L4S2/O-Mundo-dos-Pequeninos.webp",    
+      "https://i.postimg.cc/NFck6Rcg/0-Ks-Dv56i-BJP5Uz7KR.jpg"     
+    ]
+  },
+  {
+    "nome_ghibli": "Da Colina da Kokuriko",
+    "tipo": "Filme",
+    "sinopse": "Ambientado em 1963 em Yokohama, Umi Komatsuzaki é uma estudante que mora em uma pousada na colina e hasteia bandeiras navais todas as manhãs em homenagem ao seu pai, falecido na Guerra da Coreia. Ela se envolve com Shun Kazama, um colega de classe ativista que luta para salvar o Quartel General do Clube, um edifício antigo ameaçado de demolição. Enquanto trabalham juntos, eles desenvolvem um romance que é complicado pela descoberta de um possível segredo familiar compartilhado.",
+    "ano_lancamento": "2011",
+    "diretor": "Gorō Miyazaki",
+    "cor_principal": "#ffc300",
+    "citacoes": [
+      "Seu coração pode superar a tristeza.",
+      "O passado deve ser lembrado.",
+      "Viva com o rosto voltado para a luz."
+    ],
+    "tags_tematicas": [
+      "Romance",
+      "Histórico",
+      "Amadurecimento",
+      "Escolar"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/K8psr3VM/Da-Colina-Kokuriko.webp",
+      "https://i.postimg.cc/kgQ9wm8j/10poppy1-superjumbo.webp"
+    ]
+  },
+  {
+    "nome_ghibli": "Vidas ao Vento",
+    "tipo": "Filme",
+    "sinopse": "O filme é uma biografia ficcionalizada de Jiro Horikoshi, o engenheiro aeronáutico japonês que projetou o caça Mitsubishi A6M Zero, usado na Segunda Guerra Mundial. Desde criança, Jiro sonha em criar aeronaves lindas, inspirado pelo designer italiano Caproni. A história segue Jiro através de terremotos, doenças e a Grande Depressão, enquanto ele lida com a dicotomia entre criar beleza técnica e o uso destrutivo de suas criações, culminando em um romance trágico.",
+    "ano_lancamento": "2013",
+    "diretor": "Hayao Miyazaki",
+    "cor_principal": "#6495ED",
+    "citacoes": [
+      "O vento se levanta. Devemos tentar viver.",
+      "Um sonho é uma maldição e uma bênção.",
+      "Nós não vamos vender aviões para o Japão. Vamos vender sonhos."
+    ],
+    "tags_tematicas": [
+      "Biografia",
+      "Histórico",
+      "Aviação",
+      "Drama",
+      "Miyazaki"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/cLk5Mtjr/2013-Vidas-ao-Vento.webp",    
+      "https://i.postimg.cc/4dJznsvD/the-wind-rises-reelgood.jpg"     
+    ]
+  },
+  {
+    "nome_ghibli": "O Conto da Princesa Kaguya",
+    "tipo": "Filme",
+    "sinopse": "Uma versão sublime e única do conto folclórico japonês, 'O Cortador de Bambu'. Um humilde cortador de bambu encontra uma menina minúscula dentro de um broto brilhante e a leva para casa. Ela cresce rapidamente, tornando-se uma linda princesa que atrai a atenção de vários pretendentes nobres e do próprio imperador. No entanto, sua verdadeira origem celestial e seu propósito neste mundo se revelam, forçando-a a encarar um destino melancólico e a separação da vida terrena que aprendeu a amar.",
+    "ano_lancamento": "2013",
+    "diretor": "Isao Takahata",
+    "cor_principal": "#FF1493",
+    "citacoes": [
+      "Tudo que cresce tem seu tempo de florescer.",
+      "Eu nasci para este mundo contra a minha vontade.",
+      "Se você vai chorar, chore sozinha."
+    ],
+    "tags_tematicas": [
+      "Folclore",
+      "Tragédia",
+      "Aquarela",
+      "Takahata",
+      "Mitologia"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/137YcVTz/O-Conto-da-Princesa-kaguya.webp",    
+      "https://i.postimg.cc/rFWChnmF/4d0333-a4dba95c8200402981836f60a2364031-mv2.png"     
+    ]
+  },
+  {
+    "nome_ghibli": "As Memórias de Marnie",
+    "tipo": "Filme",
+    "sinopse": "Anna Sasaki, uma jovem tímida e reservada que sofre de asma e ansiedade social, é enviada para uma cidade litorânea em Hokkaido para viver com parentes. Lá, ela descobre uma mansão abandonada na planície de maré. Anna se torna obcecada por Marnie, uma misteriosa garota loira que mora na casa. As duas desenvolvem uma intensa amizade, que flutua entre a realidade e o sonho, enquanto Anna desvenda a verdadeira identidade de Marnie e resolve seus próprios traumas familiares.",
+    "ano_lancamento": "2014",
+    "diretor": "Hiromasa Yonebayashi",
+    "cor_principal": "#87CEEB",
+    "citacoes": [
+      "Neste mundo, há um círculo mágico invisível. Há o exterior e o interior. Essas pessoas estão dentro. E eu estou fora.",
+      "Pode chorar, mas saiba que eu te amo. Eu te amo mais do que qualquer outra garota que já conheci.",
+      "Ela teve uma vida solitária, mas se esforçou ao máximo para viver. Sempre com um sorriso, determinada a ser feliz."
+    ],
+    "tags_tematicas": [
+      "Mistério",
+      "Amizade",
+      "Psicológico",
+      "Drama"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/bwVFHSMr/As-Memorias-de-Marnie.webp",    
+      "https://i.postimg.cc/ZKTKg0YS/As-Memorias-de-Marnie-capa.jpg"     
+    ]
+  },
+  {
+    "nome_ghibli": "A Tartaruga Vermelha",
+    "tipo": "Filme",
+    "sinopse": "Um náufrago chega a uma ilha deserta e, após várias tentativas fracassadas de fuga, descobre que seu bote inflável é consistentemente destruído por uma misteriosa tartaruga vermelha gigante. Após confrontar o animal, ele testemunha a transformação mágica da tartaruga em uma mulher. Este filme de diálogo zero explora o ciclo da vida, a natureza, a solidão e a aceitação do destino por meio de uma narrativa visualmente poética e contemplativa.",
+    "ano_lancamento": "2016",
+    "diretor": "Michaël Dudok de Wit",
+    "cor_principal": "#e74c3c",
+    "citacoes": [
+      "A história nos lembra da inevitabilidade do destino.",
+      "O mar e a ilha são a vida.",
+      "Sem palavras, apenas a natureza."
+    ],
+    "tags_tematicas": [
+      "Contemplativo",
+      "Sobrevivência",
+      "Sem diálogo",
+      "Natureza"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/pVsgWdYm/A-Tartaruga-Vermelha.webp",    
+      "https://i.postimg.cc/tT2m4r62/649c1755cf2dd77b272a92a028f89fec873635b35627072726277b3d8ccad410-SX1080-FMjpg.jpg"     
+    ]
+  },
+  {
+    "nome_ghibli": "Aya e a Bruxa",
+    "tipo": "Filme",
+    "sinopse": "Aya, uma garota órfã que adora viver em seu lar adotivo, é forçada a morar com uma bruxa egoísta chamada Bella Yaga e seu misterioso colega, o Mandrake. Esperta e manipuladora, Earwig decide aprender magia para escapar. Em um esforço para controlar sua nova e assustadora situação, ela usa sua inteligência e seu gato falante para tentar virar o jogo contra seus novos e cruéis guardiões, descobrindo o mistério de sua própria linhagem.",
+    "ano_lancamento": "2020",
+    "diretor": "Gorō Miyazaki",
+    "cor_principal": "#8e44ad",
+    "citacoes": [
+      "Quero que a vida seja interessante.",
+      "Bruxas são egoístas.",
+      "Não há nada que uma garota inteligente não possa fazer."
+    ],
+    "tags_tematicas": [
+      "Magia",
+      "CGI",
+      "Comédia",
+      "Amadurecimento"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/Mp3rbf4n/Aya-e-Bruxa.webp",    
+      "https://i.postimg.cc/zfpkCyfq/Aya-e-a-Bruxa-26.jpg"     
+    ]
+  },
+  {
+    "nome_ghibli": "O Menino e a Garça",
+    "tipo": "Filme",
+    "sinopse": "Mahito, um jovem que perdeu sua mãe em um incêndio durante a Segunda Guerra Mundial, muda-se para o campo com seu pai e sua nova madrasta. Lutando para se ajustar e superar seu luto, ele encontra uma garça cinzenta misteriosa que o atrai para uma torre abandonada. A garça o conduz a um mundo de fantasia habitado por seres vivos e mortos, onde Mahito deve confrontar a verdade sobre si mesmo, sua família e o ciclo da vida e da morte.",
+    "ano_lancamento": "2023",
+    "diretor": "Hayao Miyazaki",
+    "cor_principal": "#4a706b",
+    "citacoes": [
+      "Sob o mesmo céu, todos nós compartilhamos sonhos e tristezas.",
+      "Se este mundo vai se tornar um mundo maravilhoso, ou um mundo horrível, vai depender apenas de você.",
+      "A vida e a morte são apenas partes de um ciclo maior, e compreender isso é o primeiro passo para a sabedoria."
+    ],
+    "tags_tematicas": [
+      "Fantasia",
+      "Luto",
+      "Guerra",
+      "Psicológico",
+      "Miyazaki"
+    ],
+    "imagens_urls": [ 
+      "https://i.postimg.cc/0yXHdK3x/O-Menino-e-a-Garca.webp",    
+      "https://i.postimg.cc/KvRvFwTW/theboyandtheheron2.jpg"     
+    ]
+  }
+]

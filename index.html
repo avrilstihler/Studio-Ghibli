@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Studio Ghibli | Obras de Arte Animadas</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Playfair+Display:wght@700&family=Merriweather:ital,wght@1,700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <section class="hero-section" id="heroSection">
+        <div class="hero-background"></div>
+        <div class="hero-overlay"></div>
+        
+        <div class="hero-text-content">
+            <h1 class="hero-title-ghibli">
+                <span class="title-serif">Arte</span> 
+                <span class="title-cursive">Cinematográfica</span> 
+                <span class="title-serif">& Livre</span>
+            </h1>
+            
+            <p class="hero-subtitle">Uma jornada visual e emocional através das obras do Studio Ghibli.</p>
+            
+            <a href="#mainContent" class="hero-btn">EXPLORAR FILMES ↓</a>
+        </div>
+    </section>
+
+    <div class="main-content" id="mainContent">
+        <div class="container">
+            
+            <section class="busca">
+                <input type="text" id="campoBusca" placeholder="Buscar filme por título ou tema...">
+            </section>
+
+            <section class="galeria-cards" id="galeriaCards">
+                </section>
+        </div>
+    </div>
+    
+    <div id="modalDetalhe" class="modal-overlay">
+        <div class="modal-content">
+            <button class="modal-fechar" id="modalFechar">X</button>
+            <div class="detalhe-filme-container">
+                <h2 id="modalTitulo"></h2>
+                <p class="modal-ano" id="modalAno"></p>
+                <p class="modal-sinopse" id="modalSinopse"></p>
+                
+                <div class="modal-imagens-container" id="modalImagens"></div>
+
+                <div class="modal-citacoes-container">
+                    
+                    <ul id="modalCitacoes"></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+    <div class="footer-content">
+        <div class="footer-logo">
+            <img src="https://i.postimg.cc/FsfSk5h1/Captura-de-tela-2025-11-23-124822.png" alt="Logo Imersão Dev com Google Gemini">
+        </div>
+        
+        <p class="footer-text">
+            Imersão Dev com Google Gemini 10ª Edição.
+        </p>
+        
+        <p class="footer-developed-by">
+            Desenvolvido por <a href="https://github.com/avrilstihler" target="_blank" rel="noopener noreferrer">Avril</a>.
+        </p>
+    </div>
+</footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "viagem-chihiro",
+    "titulo": "A Viagem de Chihiro",
+    "ano": "2001",
+    "sinopse": "Uma menina de dez anos, Chihiro, se vê presa em um mundo misterioso habitado por deuses, espíritos e criaturas mágicas. Para salvar seus pais, que foram transformados em porcos, ela deve trabalhar nos banhos de Yubaba.",
+    "corPrincipal": "#1e88e5",
+    "cardBackgroundUrl": "https://i.postimg.cc/7hkgqCr1/2001-A-Viagem-de-Chihiro.webp", 
+    "imagens": ["https://i.imgur.com/chihiro-1.jpg", "https://i.imgur.com/chihiro-2.jpg"],
+    "citacoes": ["Uma vez que você conhece alguém, nunca o esquece completamente.", "O importante não é como você se sente, mas como você age."],
+    "palavrasChave": ["chihiro", "espiritos", "magia", "yubaba"]
+  },
+  {
+    "id": "princesa-mononoke",
+    "titulo": "Princesa Mononoke",
+    "ano": "1997",
+    "sinopse": "Um príncipe amaldiçoado, Ashitaka, viaja para o oeste em busca da cura e se envolve na guerra entre os deuses da floresta e os humanos que destroem seus recursos naturais.",
+    "corPrincipal": "#27ae60",
+    "cardBackgroundUrl": "https://images6.alphacoders.com/469/thumb-1920-469062.jpg",
+    "imagens": ["https://i.imgur.com/mononoke-1.jpg", "https://i.imgur.com/mononoke-2.jpg"],
+    "citacoes": ["Não importa quão escuro seja o dia, se você ama a vida, a luz virá.", "A vida é sofrimento. É dura. E é isso que a torna bonita."],
+    "palavrasChave": ["mononoke", "ashitaka", "floresta", "guerra"]
+  },
+  {
+    "id": "meu-vizinho-totoro",
+    "titulo": "Meu Vizinho Totoro",
+    "ano": "1988",
+    "sinopse": "Duas jovens irmãs, Satsuki e Mei, mudam-se para o campo com seu pai e fazem amizade com criaturas mágicas da floresta, incluindo o grande Totoro.",
+    "corPrincipal": "#f1c40f",
+    "cardBackgroundUrl": "https://images.hdqwalls.com/download/my-neighbor-totoro-by-the-road-4k-t1-1920x1080.jpg",
+    "imagens": ["https://i.imgur.com/totoro-1.jpg", "https://i.imgur.com/totoro-2.jpg"],
+    "citacoes": ["Risos são o que precisamos para crescer.", "Às vezes, é preciso ver para acreditar."],
+    "palavrasChave": ["totoro", "satsuki", "mei", "floresta", "amizade"]
+  },
+  {
+    "id": "castelo-animado",
+    "titulo": "O Castelo Animado",
+    "ano": "2004",
+    "sinopse": "Uma jovem, Sophie, é transformada em uma velha por uma bruxa e busca a cura em um castelo mágico e ambulante, onde ela conhece o misterioso mago Howl.",
+    "corPrincipal": "#9b59b6",
+    "cardBackgroundUrl": "https://images.alphacoders.com/264/264850.jpg",
+    "imagens": ["https://i.imgur.com/howl-1.jpg", "https://i.imgur.com/howl-2.jpg"],
+    "citacoes": ["Um coração é um fardo pesado.", "As pessoas dizem que a felicidade é um milagre, mas a vida é uma série de milagres."],
+    "palavrasChave": ["howl", "sophie", "castelo", "bruxa"]
+  }
+]
